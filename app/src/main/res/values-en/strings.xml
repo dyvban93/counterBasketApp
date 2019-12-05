@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CompteurPointsBasket</string>
+    <string name="reset_btn">Reset</string>
+    <string name="nom_eqp_a">Team A</string>
+    <string name="un_pts">Free Throw</string>
+    <string name="nom_eqp_b">Team B</string>
+</resources>

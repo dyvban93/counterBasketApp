@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CompteurPointsBasket</string>
+    <string name="reset_btn">Reinitialiser</string>
+    <string name="nom_eqp_a">Equipe A</string>
+    <string name="trois_pts" translatable="false">+3 Points</string>
+    <string name="un_pts">+1 point</string>
+    <string name="deux_pts" translatable="false">+2 points</string>
+    <string name="nom_eqp_b">Equipe B</string>
+</resources>
